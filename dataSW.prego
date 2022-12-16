@@ -1,0 +1,11 @@
+# Flag que permite la actualizacion.
+allowUpdating = true
+
+# Indica la version actual.
+latestVersion = v0.6
+
+# Indica el nombre del update.
+updateFileName = Update-v20221214.zip
+
+# Indica si se requiere la ultima version para ejecutar el software.
+allowOnlyUpdated = true
