@@ -2,12 +2,12 @@
 allowUpdating = true
 
 # Indica la version actual.
-latestVersion = v-0.6
-simpleURL = www
+latestVersion = v-0.7
+simpleURL = https://drive.proton.me/urls/PM4ASMQH8M#AElwZr5PMNI1
 
 # Indica la version actual Large.
 latestLargeVersion = lv-1
-largeURL = www
+largeURL = https://drive.proton.me
 
 # Indica el nombre del update.
 updateFileName = Update-v20221214.zip
