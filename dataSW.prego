@@ -2,15 +2,15 @@
 allowUpdating = true
 
 # Indica la version actual.
-latestVersion = v-0.9
-simpleURL = https://drive.proton.me/urls/ANDD7DS0ZR#Xngv0Iolu0pG
+latestVersion = v-0.10
+simpleURL = https://drive.proton.me/urls/CN1XQKR7WW#an2vl5nJ50Km
 
 # Indica la version actual Large.
 latestLargeVersion = lv-1
 largeURL = https://drive.proton.me
 
 # Indica el nombre del update.
-updateFileName = Setup PregoPass 2023-01-26.msi
+updateFileName = Update-v20230205.zip
 
 # Indica si se requiere la ultima version para ejecutar el software.
 allowOnlyUpdated = true
