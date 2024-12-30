@@ -1,0 +1,19 @@
+# Flag que permite la actualizacion.
+allowUpdating = true
+
+# Indica la version actual.
+latestVersion = v-0.17
+simpleURL = https://drive.proton.me/urls/3SR4GFR7DM#k6uGBynyjcDQ
+
+# Indica el nombre del update.
+updateFileName = Update-v20241230.zip
+
+# Indica la version actual Large.
+latestLargeVersion = lv-5
+largeURL = https://drive.proton.me/urls/7S6NGREV3R#Myaa6oTUkReo
+
+# Indica el nombre del update.
+updateLargeFileName = Update PregoPass 2024-04-27.msi
+
+# Indica si se requiere la ultima version para ejecutar el software.
+allowOnlyUpdated = true
